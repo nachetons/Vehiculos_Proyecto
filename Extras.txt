@@ -1,0 +1,14 @@
+Extras:
+3
+Identificador:
+1
+descripción:
+Techo paronámico
+Identificador:
+2
+descripción:
+Lunas tintadas
+Identificador:
+3
+descripción:
+Nacho de bolsillo en Black Desert
